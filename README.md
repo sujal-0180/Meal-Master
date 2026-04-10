@@ -35,6 +35,5 @@ The API provides:
 * HTML
 * CSS
 
-# Task - 2
-this task is done 
-this is the link "https://sujal-0180.github.io/Meal-Master/"
+#### THE PROJECT IS DONE ####
+* This is the live server link "https://legendary-strudel-ceaf49.netlify.app"
